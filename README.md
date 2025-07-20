@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mohit Sharma 👋
 
-<!--
-**Mohit-ops01/Mohit-ops01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Btech CSE Student | Full Stack Developer in Progress  
+💻 Currently learning Java, React, Spring Boot, and DSA  
+📚 Documenting my journey through real-world projects & commits  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- Java, JDBC, Spring Boot
+- HTML, CSS, JavaScript, React
+- Git, GitHub, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Notable Repos:
+- `JavaPractice` – Java functions, mini CLI apps
+- `Portfolio` – Static personal website (HTML/CSS/JS)
+- More coming soon...
+
+📌 GitHub: https://github.com/Mohit-ops01  
+🔗 LinkedIn: https://linkedin.com/in/mohit-sharma-ind
