@@ -1,18 +1,26 @@
-# Hi, I'm Mohit Sharma 👋
+# 👋 Hi, I'm Mohit Sharma
 
-🚀 Btech CSE Student | Full Stack Developer in Progress  
-💻 Currently learning Java, React, Spring Boot, and DSA  
-📚 Documenting my journey through real-world projects & commits  
+🎓 3rd Year B.Tech CSE Student  
+💻 Full Stack Developer in Progress — Java | React | Spring Boot  
+🧠 Learning DSA alongside real-world development  
+📈 Documenting my journey through code & commits
 
-### 🔧 Tech Stack:
-- Java, JDBC, Spring Boot
-- HTML, CSS, JavaScript, React
-- Git, GitHub, MySQL
+---
 
-### 📌 Notable Repos:
-- `JavaPractice` – Java functions, mini CLI apps
-- `Portfolio` – Static personal website (HTML/CSS/JS)
-- More coming soon...
+### 🔧 Current Tech Stack
 
-📌 GitHub: https://github.com/Mohit-ops01  
-🔗 LinkedIn: https://linkedin.com/in/mohit-sharma-ind
+- 💻 Java, JDBC, Spring Boot
+- 🌐 HTML, CSS, JavaScript, React
+- 🛠️ Git, GitHub, MySQL
+
+---
+
+### 📌 Key Projects
+
+- [JavaPractice](https://github.com/Mohit-ops01/JavaPractice) – Java mini CLI apps (ATM, calculator, patterns, etc.)
+- Portfolio Website – Coming soon
+- Full Stack Employee Manager – Coming soon
+
+---
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/mohit-sharma-ind)
